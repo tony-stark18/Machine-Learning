@@ -13,7 +13,7 @@ print(arr2)
 '''
 # np.arange() --2
 '''
-# arr3 = np.arange(0,10,2) 
+# arr3 = np.arange(0,10,2)  
 # print(arr3)
 '''
 
